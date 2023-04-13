@@ -28,7 +28,7 @@ The repository contains several Python files that implement different parts of t
 5. Step 5 - Forecasting_Final_Total_Inv_sqft_w_tuning.ipynb: Contains functions to prepare the data for fbprohet model and also has fucntions to find the best fit model based on hyper parameter tuning for the two main metrics Total In building Inventory and Square feet usage
 6. Step 6 - Combine_Forecast and Actuals_0329.ipynb: Finally this file contains the code to combine all the actuals and the forecasting data into one dataset
 
-The files path needs to be chnaged as per your requirements based on where the user of this code base choses to save the raw files and the output files
+The files path needs to be changed as per your requirements based on where the user of this code base choses to save the raw files and the output files
 
 Each of these scripts generates output files that can be used as inputs for the subsequent steps in the pipeline.
 
